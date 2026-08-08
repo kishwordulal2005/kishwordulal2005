@@ -1,12 +1,8 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kishwor+Dulal....;this+is+my+2nd+id+the+original+id+with+handel+name+@kishwordulal1234+got+suspend+hope+from+now+onwared+u+will+connect+with+me+in+this+account!&center=true&size=30">
-  </a>
-</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Kishwor+Dulal!;I'm+a+Developer...;I'm+a+Cybersecurity+Enthusiast...;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
+
+> ⚠️ **Note:** This is my new GitHub account. My previous account was suspended because I was logged in on more devices than GitHub's policy allows (2 phones, a desktop, a laptop, and a work PC — all at once, my bad 😅). Please connect with me here going forward: **[github.com/kishwordulal2005](https://github.com/kishwordulal2005)**
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -187,7 +183,7 @@
 
 <div align="center">
   <h3>🐍 My Contribution Graph</h3>
-  <a href="https://github.com/kishwordulal1234/kishwordulal1234">
+  <a href="https://github.com/kishwordulal2005">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishwordulal1234&theme=radical" alt="contribution graph" />
   </a>
 </div>
@@ -308,7 +304,7 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <p>
-    <a href="https://github.com/kishwordulal1234">
+    <a href="https://github.com/kishwordulal2005">
       <img src="https://img.shields.io/github/followers/kishwordulal1234?label=Follow&style=social" alt="GitHub followers" />
     </a>
   </p>
@@ -317,7 +313,7 @@
 <!-- Activity Graph -->
 <div align="center">
   <h2>📈 Contribution Activity Graph</h2>
-  <a href="https://github.com/kishwordulal1234">
+  <a href="https://github.com/kishwordulal2005">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishwordulal1234&theme=react-dark&hide_border=true&custom_title=Kishwor's%20Contribution%20Graph" alt="Activity Graph" />
   </a>
 </div>
